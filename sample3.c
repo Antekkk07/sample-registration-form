@@ -19,7 +19,7 @@ int main() {
     printf("           STUDENT ENROLLMENT FORM           \n");
     printf("=============================================\n\n");
 
-    // 🔹 Unchanged Block
+    // Student Information
     printf("Control No : %s\n", controlNo);
     printf("Student No : %s\n", studentNo);
     printf("Name       : %s\n", name);
