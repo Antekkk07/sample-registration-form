@@ -5,7 +5,7 @@ int main() {
     char controlNo[15] = "2025-00001";
     char studentNo[15] = "25-AB12345";
     char name[50] = "DOE, JUAN DELA CRUZ";
-    char course[50] = "BSIT - Bachelor of Science in Information Technology";
+    char course[100] = "BSIT - Bachelor of Science in Information Technology";
     char address[100] = "123 SAMPLE ST., QUEZON CITY, METRO MANILA";
     char term[20] = "2025-2026 (Sem 1)";
     char section[10] = "IT 1A";
